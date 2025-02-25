@@ -1,0 +1,17 @@
+"Created by David Hutton (2024/5ish)^Assets used are usually linked to, but just in case...Microsoft Icons: Microsoft^Default Profile Icon: Mekaloton - Machina^Cat Images: Various Sources (idk where)^Think thats everything. Anyways, thanks for playing!"
+
+"Credits."
+
+"This opens the command prompt, with the directory set as the program's debug folder"
+
+"This opens the cat pictures folder, if you have >12 in the quiz that is."
+
+"This is the quiz. It has {qfilelength} questions.You have 60 seconds to answer each. If you score high enough you get access to cat pictures :D"
+
+"This text file contains a short introduction to the program, to help you understand the basics."
+
+"This is Minesweeper, written in C#. It doesnt change your score, but will give you access to the credits,That is, if you also beat the quiz with a good score."
+
+"This leaderboard shows the quiz scores for the top 3 users. Try to get on the podium!"
+
+"Youve completed all the program has to offer! Well done! You now have access to the credits."
